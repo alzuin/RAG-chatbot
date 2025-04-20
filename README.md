@@ -1,3 +1,5 @@
+This is a cleaned and published version of a private repo, containing only the final version for demonstration purposes.
+
 # Real Estate Chat Assistant (LLM-Powered)
 
 This project is a serverless, real-time chat assistant powered by LLMs and a RAG. It guides users through listings, extracts structured preferences from natural language, and returns grounded suggestions from a vector database.
